@@ -24,4 +24,4 @@ A clean, modern, and fully responsive personal portfolio website built from scra
 
 ## 🌐 Live Demo
 
-You can view the live deployed version here: **[Paste Your Live URL Here]**
+You can view the live deployed version here: **https://abish-13.github.io/personal-portfolio/**
